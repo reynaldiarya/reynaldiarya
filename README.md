@@ -2,9 +2,7 @@
 <h3 align="left">Web Developer | DevOps</h3>
 
 - 🔭 &nbsp;I’m currently scaling **[Clouden](https://clouden.id)**
-- ⚡ &nbsp;I specialize in **Web Speed Optimization** & **System Integration**
-- 🏗️ &nbsp;I’m architecting a **Homelab Environment** using **VMware Workstation**
-- 📊 &nbsp;I spend my free time analyzing **Market Trends** (Stocks & Crypto)
+- 🏗️ &nbsp;I’m architecting a **Homelab Environment** using **Proxmox VE**
 - 📫 &nbsp;Contact me at **[halo@reynaldiab.com](mailto:halo@reynaldiab.com)**
 
 <h2>🛠️ My Favorite Tools</h2>
