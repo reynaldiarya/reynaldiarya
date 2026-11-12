@@ -66,21 +66,11 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white"></a>
   </p>
 
-<h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/reynaldiarya/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/reynaldiarya/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="reynaldiarya's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=reynaldiarya&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
-
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/stats-organization/github-stats-extended"><img alt="reynaldiarya's Github Stats" src="https://github-stats-extended.vercel.app/api/?username=reynaldiarya&show=reviews,prs_merged,prs_merged_percentage,contributions,all_time_contribs&show_icons=true&include_all_commits=true&disable_animations=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+<a href="https://github.com/stats-organization/github-stats-extended"><img alt="reynaldiarya's Github Stats" src="https://github-stats-extended.vercel.app/api/?username=reynaldiarya&show=prs_merged,contributions,all_time_contribs&show_icons=true&include_all_commits=true&disable_animations=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 <a href="https://github.com/stats-organization/github-stats-extended"><img alt="reynaldiarya's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=reynaldiarya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
